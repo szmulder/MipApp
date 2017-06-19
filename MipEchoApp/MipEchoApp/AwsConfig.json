@@ -1,0 +1,9 @@
+﻿{
+  "AwsCredentials": {
+    "AccountId": "864509936249",
+    "IdentityPoolId": "us-east-1:7b49ef0e-ac1d-47f8-b8ca-506e37a1c11c",
+    "UnAuthRoleArn": "arn:aws:iam::864509936249:role/Cognito_TestIdentityPoolUnauth_Role",
+    "AuthRoleArn": "",
+    "RegionEndpoint": "us-east-1"
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>WowWee.BluetoothRobotControlLib</id>
+    <version>1.00</version>
+    <title>Bluetooth Mip Robot Control</title>
+    <authors>WowWee Labs</authors>
+    <owners>szmulder</owners>
+    <licenseUrl>https://github.com/WowWeeLabs/MiP-Windows-SDK</licenseUrl>
+    <projectUrl>https://github.com/WowWeeLabs/MiP-Windows-SDK</projectUrl>
+    <iconUrl>https://github.com/WowWeeLabs/MiP-Windows-SDK/raw/master/Images/MiP.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The free MiP Window SDK lets you control your WowWee MiP robot on devices running Window 10 </description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>WowWee Mip robot windows C# csharp</tags>
+  </metadata>
+</package>
